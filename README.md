@@ -1,4 +1,4 @@
 # House Price Predictor
 
 
-A user friendly interface integrated with a machine learning model that uses three algorithms - XGBoost, Linear regression and Random Forest to give optimal results.
+Crafted a user-friendly interface seamlessly integrated with a sophisticated machine learning model employing XGBoost, Linear Regression, and Random Forest algorithms. This fusion ensures optimal outcomes by harnessing diverse predictive techniques.
